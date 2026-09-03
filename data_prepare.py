@@ -13,7 +13,7 @@ from pathlib import Path
 import pandas as pd
 
 
-RAW_INPUT = Path(r"D:\项目\amazon.csv")
+RAW_INPUT = Path(r"你的数据集路径")
 
 
 PRODUCT_COLUMNS = [
